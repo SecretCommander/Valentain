@@ -25,6 +25,12 @@
   .side.side.one {
     display: none; 
   }
+
+  .side.side.two {
+    /* display: none;  */
+    transform: translate(0%, 10%);
+
+  }
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
@@ -35,7 +41,11 @@
     position: fixed;
     top: 15%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(10%, -30%);
+  }
+
+  .reset{
+    transform: translate(80%, -30%);
   }
   
 }

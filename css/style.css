@@ -34,7 +34,7 @@
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
-    font-size: 1.3em !important;
+    font-size: 1.2em !important;
   }
   
     .valentines-day {
@@ -57,7 +57,7 @@
 }
 
 #card h2 {
-   font-size:3em;
+   font-size:2em;
    margin:0;
    color:#EF4040;
    text-align: center;
@@ -65,7 +65,7 @@
 
 
 #card p {
-   font-size: 1.5em;
+   font-size: 1.351em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
    padding-right: 30px; /* Espacio en blanco a la derecha */
